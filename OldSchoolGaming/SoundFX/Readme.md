@@ -14,21 +14,35 @@ public class SoundBeep {
 
 	
     static {
-        System.loadLibrary("OLDSCHOOLGAMINGSOUND");
+        System.loadLibrary("OLDSCHOOLGAMINGSOUND");  //Load the OLDSCHOOLGAMINGSOUND.dll
     }
 
 public static void main(String args[] )
 {
 System.out.println("Beeppping" ) ;
-SoundBeep bp = new SoundBeep() ;
 BEEP( 233 , 3221 ) ;
 System.exit(0) ;
 
 }
 
+  //freq     ---> (The frequency of the sound, in hertz. This parameter must be in the range 37 through 32,767 (0x25 through 0x7FFF).)
+  //duration ---> The duration of the sound, in milliseconds.
   public static native void BEEP( int freq , int duration ) ;
 	
 }
 
 </code>
 </pre>
+
+
+<br>
+<br>
+To Run above example copy the code above with the OLDSCHOOLGAMINGSOUND.dll and make sure you have the path to the OLDSCHOOLGAMINGSOUND.dll set 
+Like below enjoy :)
+<pre>
+<code>
+javac SoundBeep.java
+java -Djava.library.path="C:\xxxxx\xxxx\xxx\OLDSCHOOLGAMINGSOUND_DIRECTORY" SoundBeep
+
+</pre>
+</code>
