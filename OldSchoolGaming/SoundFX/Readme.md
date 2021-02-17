@@ -38,7 +38,7 @@ System.exit(0) ;
 <br>
 <br>
 To Run above example copy the code above with the OLDSCHOOLGAMINGSOUND.dll and make sure you have the path to the OLDSCHOOLGAMINGSOUND.dll set 
-Like below enjoy :)
+Like below enjoy :) and most importantly make some cool soundfx the old school way like old games did!!!
 <pre>
 <code>
 javac SoundBeep.java
