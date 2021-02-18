@@ -53,4 +53,4 @@ See if you can here 16khz or even create a dog whistle like application.
 I cool toy application. To create multiply frequencies mixed together like in the old school gaming consoles or computers you have to create multiple threads that each invoke 
 SoundBeep.Beep(...) with different frequencies
 <br>
-definitely not sure on the ramification of this as new hardware is drastically different then old hardware so different machines may not beable to emulator or even use the BEEP function in which case for you guys this is all for nothing ignore all this talk.
+Definitely not sure on the ramification of this as new hardware is drastically different then old hardware so different machines may not beable to emulator or even use the BEEP function in which case for you guys this is all for nothing ignore all this talk.
