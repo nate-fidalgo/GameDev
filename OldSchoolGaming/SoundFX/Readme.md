@@ -46,3 +46,9 @@ java -Djava.library.path="C:\xxxxx\xxxx\xxx\OLDSCHOOLGAMINGSOUND_DIRECTORY" Soun
 
 </pre>
 </code>
+
+<br>
+O another use is to test your ears as a hearing test i can only get to 15khz ish the human hearing range i believe is 20hz to 20khz so i am lacking 15khz to 20khz range now.
+See if you can here 16khz or even create a dog whistle like application.
+I cool toy application. To create multiply frequencies mixed together like in the old school gaming consoles or computers you have to create multiple threads that each invoke 
+SoundBeep.Beep(...) with different frequencies
