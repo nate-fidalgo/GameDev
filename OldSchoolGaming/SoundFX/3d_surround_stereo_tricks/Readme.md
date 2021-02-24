@@ -21,7 +21,7 @@ This is important for the player to figure out the codec it needs to uses and wh
 
 What differs from container files for video vs audio is that audio container files sometimes only have the capacity to store audio channel data not a good quality video channel.
 <br>
-And container file formats for video support usually multiple audio channels as well as multiple video channels its the images/quality of image data that would work well in a mp3 vs mp4.
+And container file formats for video support usually multiple audio channels as well as multiple video channels its the images/quality of image data that wouldn't work well in a mp3 vs mp4.
 <br>
 Yet a mp4 could be used as a container for just audio file or just video making it really a file format for audio like an mp3 as well as a video file format like avi.
 <br>
