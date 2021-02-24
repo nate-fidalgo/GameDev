@@ -1,7 +1,7 @@
 The stereo_surround.wav and stereo_surround.mp3 files are to test the illusion of 3d and surround sound like effects thru 2 channel stereo tricks.<br>
 By using the pan all the way to the left for one channel and pan all the way to the right for the other channel you can achieve cool SFX coming from different speakers.<br>
 Check it out download the files and listen  with two speakers or headphones!!!<br>
-If you want to do the same one can use audicity or any decent audio editing software to achieve this thru creating to mono channels then merging them into stereo with pan to the left 
+If you want to do the same one can use audicity or any decent audio editing software to achieve this thru creating two mono channels then merging them into stereo with pan to the left 
 on one channel and pan to the right on the other channel <br>
 
 <br>
