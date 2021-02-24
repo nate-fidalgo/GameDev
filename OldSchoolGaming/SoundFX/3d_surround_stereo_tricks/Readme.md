@@ -34,7 +34,7 @@ We usually call the extensions of wav ,mp3,... an audio file format<br>
 And m4k, avi ,mov ,mp4 ,mpeg,...etc an video file format <br>
 However truely its all just container file formats which some support just audio , just video , multiple track audio ,....etc all depends on the header fields /file format choosen.
 <br>
-Goes container file ---> instead it fields telling the properties of all the channels/where they are in file (the compression algorithm/pointer to channel data)----> then its just 
+Goes container file ---> inside it fields telling the properties of all the channels/where they are in file (the compression algorithm/pointer to channel data)----> then its just 
 the chuncks of channel data. Some times also called as streams, tracks  ,...etc
 
 <br>
@@ -50,3 +50,9 @@ To sum up container files is everything audio file formats or video file formats
 So when we say audio file format or video file format for a given audio or video file extension we are just trying to figure out what the structure of that particular
 <br> container file format is for that extension as well as what software can read/play/open it. <br>
 Thats about it at the high level view :)
+<br>
+Enjoy the sample audio notice this effect is done in wav and mp3 both container formats for audio only. <br>
+You could embedd very very shit quality of video images /thumbnail animation or stereographic data hiding <br>
+After all there all just container file formats knowing this there like specific a folder of all the zip file channels interms of data compession zip files <br>
+If your more familar with zip files / data compression for computer data :)
+<br>
