@@ -28,7 +28,7 @@ Yet a mp4 could be used as a container for just audio file or just video making 
 
 I hope i am not confusing the issue but there is really no such thing as audio file format and video file format but more container files used as audio storing only files or
 video storing files.
-
+<br>
 <br>
 We usually call the extensions of wav ,mp3,... an audio file format<br>
 And m4k, avi ,mov ,mp4 ,mpeg,...etc an video file format <br>
@@ -38,6 +38,7 @@ Goes container file ---> inside it fields telling the properties of all the chan
 the chuncks of channel data. Some times also called as streams, tracks  ,...etc
 
 <br>
+<br>
 The more complicated aspect of these video /audio/container file formats is the compression/decompression algorithms choosen for each channel. <br>
 Some people call them codec others call them encoding/decoders. Some codec even use encryption as well. <br>
 While understanding LZ77 , LZW , LZxxx and all its variants like DEFLATE , what png uses , ...etc is pretty straight forward at a high level<br>
@@ -46,10 +47,12 @@ Its just the way they do it as well as what they choose for the pointer length v
 <br>
 Anyway compression/decompression algorithms i will be make a seperate code theory/information theory folder for this.
 <br>
+<br>
 To sum up container files is everything audio file formats or video file formats are just a certain type of container file formats.<br>
 So when we say audio file format or video file format for a given audio or video file extension we are just trying to figure out what the structure of that particular
 <br> container file format is for that extension as well as what software can read/play/open it. <br>
 Thats about it at the high level view :)
+<br>
 <br>
 Enjoy the sample audio notice this effect is done in wav and mp3 both container formats for audio only. <br>
 You could embedd very very shit quality of video images /thumbnail animation or stereographic data hiding <br>
