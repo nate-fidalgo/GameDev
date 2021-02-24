@@ -55,7 +55,7 @@ Thats about it at the high level view :)
 <br>
 <br>
 Enjoy the sample audio notice this effect is done in wav and mp3 both container formats for audio only. <br>
-You could embedd very very shit quality of video images /thumbnail animation or stereographic data hiding <br>
+You could embedd very very shit quality of video images /thumbnail animation or steganographic data hiding <br>
 After all there all just container file formats knowing this there like specific a folder of all the zip file channels interms of data compession zip files <br>
 If your more familar with zip files / data compression for computer data :)
 <br>
